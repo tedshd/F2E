@@ -13,6 +13,7 @@
 * `class` or `id` naming
     * use `_` split word
     * example: `play_video`
+
 ### CSS
 
 * property and value must has a space
