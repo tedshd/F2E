@@ -31,6 +31,8 @@
 
 * CDN
 * minify
+* [5 Easy Ways To Speed Up Your Web Application](https://docs.google.com/presentation/d/1mtuT4pdgaAoqHYOhdq7cKxMhPZsl4Euusual1anIzuo/edit?usp=sharing)
+* [High Performance Web Sites](http://www.it-ebooks.info/book/258/)
 
 ### Security
 

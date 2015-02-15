@@ -23,3 +23,9 @@
 ![cover](img/Learning_JavaScript_Design_Patterns.jpeg)
 
 [ebook](http://it-ebooks.info/book/724/)
+
+### High Performance Web Sites
+
+![Cover](img/high_performance_web_sites.jpg)
+
+[ebook](http://www.it-ebooks.info/book/258/)
