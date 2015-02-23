@@ -27,6 +27,12 @@
 
 ### AJAX
 
+* CRUD
+* application/x-www-form-urlencoded
+* FormData
+* http
+* status code
+
 ### Performance
 
 * CDN
