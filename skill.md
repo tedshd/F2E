@@ -4,6 +4,8 @@
 
 * Semantic
 * HTML5
+* SEO
+* Viewport
 
 ### CSS
 
@@ -11,8 +13,11 @@
 * Weight
 * BOX Model
 * Position
+* Vertical align
+* Display type
 * CSS reset
 * CSS3
+* Media query
 
 ### JavaScript
 
@@ -22,8 +27,10 @@
 * Closure
 * Async
 * Promise
-
-### Git
+* Object
+* OOP / FP
+* Module load
+* ES2015 / ES6
 
 ### AJAX
 
@@ -32,6 +39,13 @@
 * FormData
 * http
 * status code
+* Rest
+
+### Git
+
+### Tool
+
+* Grunt / Gulp / Browserify / Webpack
 
 ### Performance
 
