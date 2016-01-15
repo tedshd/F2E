@@ -4,7 +4,7 @@
 
 ```javscript
 $.ajax({
-    url: url, // if has form get form action
+    url: 'url', // if has form get form action
     type: 'POST', // POST, PUT, GET, DELETE,
     data: {
         // data
