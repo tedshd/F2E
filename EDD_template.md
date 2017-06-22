@@ -50,6 +50,10 @@ Notice:
 
 * routes
 
+## GA
+
+{Google Analytics}
+
 ## API
 
 {API doc}
